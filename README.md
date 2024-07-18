@@ -4,13 +4,15 @@ A simple Python application to convert English text to binary and vice versa.
 
 ## View the App
 
-[Click here to view the app on Heroku](https://[your-app-name.herokuapp.com](https://binarybuddy-469f6feb46e7.herokuapp.com/))
+[Click here to view the app on Heroku]
 
 ## How to Use
 
-1. Clone the repository.
-2. Ensure you have Python installed.
-3. Run the application using:
+A simple Python application to convert English text to binary and vice versa.
 
-   ```bash
-   python app.py
+## How to Use the Application
+Click the link above.
+Then Enter 1 to translate English to Binary or enter 2 to translate Binary to English
+
+
+
